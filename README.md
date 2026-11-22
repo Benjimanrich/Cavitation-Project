@@ -11,4 +11,4 @@ Physics, 26, 033002.
 [DOI: 10.1088/1367-2630/ad295b](https://doi.org/10.1088/1367-2630/ad295b)
 
 
-code is the code folder, data and other related files in the data folder
+code and generated plots are in the code folder, data and other related files(including fiji macros and methodology) are in the data folder
